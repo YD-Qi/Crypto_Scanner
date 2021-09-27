@@ -1,0 +1,4 @@
+TA-Lib
+flask
+pandas
+ccxt
